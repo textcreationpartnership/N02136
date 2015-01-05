@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <body>
          <div type="speech">
-            <pb facs="tcp:002542_0000_0FDB44AE031133B8"/>
-            <pb n="1" facs="tcp:002542_0001_0FDB4C77B0EDB608"/>
+            <pb facs="unknown:002542_0000_0FDB44AE031133B8"/>
+            <pb n="1" facs="unknown:002542_0001_0FDB4C77B0EDB608"/>
             <opener>
                <dateline>New-Castle <hi>upon</hi>Delaware, <date>
                      <hi>May</hi> 28. 1724.</date>
@@ -130,7 +130,7 @@
             <p>WHEN we consider the happy Period unto which the Wisdom of his present Majesty has brought not only the Affairs of has own Dominions, but of all <hi>Europe,</hi> it is impossible for us to withstand the Force of our Duty to such a Prince, whose Rule and Command terminates in the particular Happi<g ref="char:EOLhyphen"/>ness of his own People, and a general Benevolence to Mankind.</p>
             <p>A FREQUENT and grateful Remembrance of the many Blessings we enjoy under the present Reign, must certainly stir up in us a very affectio<g ref="char:EOLhyphen"/>nate Sense of the common Benefits that attend an Equal, Just, and Free Government, where the Magistrates are esteemed and respected in their seve<g ref="char:EOLhyphen"/>ral Degrees, according to the Opportunities which they have of maintaining the Rights and Liberties of the People with Regard to that Legal Constitution upon which they are Founded, and by which only they can be preserved.</p>
             <p>NATURE simply considered without the Improvement of Civil Govern<g ref="char:EOLhyphen"/>ment, does indeed put Mankind on a perfect Equality; but since the abso<g ref="char:EOLhyphen"/>lute Necessity of Human Society proceeds from the reciprocal Obligations which in the Course of Life Men cannot avoid receiving from each other; it will follow, that the Government of any Society is only the voluntary Esta<g ref="char:EOLhyphen"/>blishment of an Artificial, but just Force, upon every individual Person, to discharge such Obligations as he has received from the Publick or his Neigh<g ref="char:EOLhyphen"/>bour,
-<pb n="2" facs="tcp:002542_0002_0FDB4C764C9A70C0"/>
+<pb n="2" facs="unknown:002542_0002_0FDB4C764C9A70C0"/>
 with Justice and Gratitude: As any Magistrate therefore, who will pre<g ref="char:EOLhyphen"/>sume to exercise the Authority of his Office, beyond the equitable Intent, and plain Sense of this General Rule, may doubtless be charg'd with Inju<g ref="char:EOLhyphen"/>stice and Partiality; so on the other Hand, what Person soever shall take upon him to vilify or detract from the Character of any PRINCE, GOVER<g ref="char:EOLhyphen"/>NOUR, or other inferiour Magistrate in Authority, who evidently make this equitable Principle the Rule of their Actions; he will be distinguished, by every just and good Man, either as an open Enemy to the Common<g ref="char:EOLhyphen"/>wealth, or as an abject Slave to his own vile and unruly Passions, which not only render him incapable of doing or intending any Good to the Pub<g ref="char:EOLhyphen"/>lick, but even of receiving and enjoying the common Benefits which of Right appertain to the Freedom of an <hi>English</hi> Government.</p>
             <p>THE long Acquaintance which I have had, with the principal Inhabi<g ref="char:EOLhyphen"/>tants of this Place, encourages me to hope, that a due Reflection on those Things which I have now recommended to the present Magistracy of this City, will in some Measure assist them and their Successors, to act in their several Stations from Time to Time, as becomes Loyal Subjects, Faithful Ma<g ref="char:EOLhyphen"/>gistrates, and affectionate good Neighbours: Always considering that their own Honour, Interest and Reputation must be built upon the Ease and Hap<g ref="char:EOLhyphen"/>piness of the People under their Care, and on no other Foundation whatso<g ref="char:EOLhyphen"/>ever.</p>
             <div type="part">
@@ -150,7 +150,7 @@ with Justice and Gratitude: As any Magistrate therefore, who will pre<g ref="cha
                      </opener>
                      <p>THE many real Advantages, Privileges, and peculiar Blessings which the present glorious Reign of our most Royal Sovereign, bestows on the Subject, are not wholly appropriated to those only who have the Hap<g ref="char:EOLhyphen"/>piness and Pleasure of being more immediately under his Majesty's Eye, but even We who are far distant and remote from His Sacred Person, feel the benign and diffusive Influence of His most just and steddy Administrati<g ref="char:EOLhyphen"/>on, in the full Enjoyment of our antient Rights as well as in the conside<g ref="char:EOLhyphen"/>rable Addition made thereunto, by granting to us at this Time the Privileges of a Body Corporate and Politick.</p>
                      <p>
-                        <pb n="3" facs="tcp:002542_0003_0FDB4C74CF418098"/>
+                        <pb n="3" facs="unknown:002542_0003_0FDB4C74CF418098"/>
                         <gap reason="illegible: missing" extent="1 letter">
                            <desc>•</desc>
                         </gap>ND as with unfeigned Hearts and the greatest Gratitude, we humbly acknowledge our Sense of His Majesty's Bounty by your EXCELLENCY's Means conferr'd upon us, so we hope in our several Stations to improve the Royal Favour, by justly and impartially executing the Powers granted to us, in that Manner which may best suit the Peace, Happiness, and Interest of those who are immediately concern'd therein.</p>
